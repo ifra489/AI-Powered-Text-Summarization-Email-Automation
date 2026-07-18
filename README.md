@@ -43,8 +43,14 @@ Gmail Email Notification
 
 ## Screenshot
 
-![Workflow Screenshot](workflow-screenshot.jpeg)
-![Workflow Screenshot](email.jpeg)
+
+<p align="center">
+  <img src="workflow-screenshot.jpeg" width="900" alt="Workflow Screenshot">
+</p>
+
+<p align="center">
+  <img src="email.jpeg" height="600" alt="Successful Execution">
+</p>
 
 
 
